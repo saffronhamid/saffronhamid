@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-YOLOv8<br>YOLOv10<br>Machine Learning and Data Science<br>
+YOLOv8<br>YOLOv10<br>Machine Learning and Data Science<br><br>Full Stack Devlopment<br>
 
 
 ## 🌐 Socials:
