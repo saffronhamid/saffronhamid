@@ -55,5 +55,4 @@
 ## 📌 Pinned Projects
 - 🏠 SmartRent (React + Node + MongoDB)
 - 📊 FinReco AI (FastAPI + yfinance + cvxpy)
-- 🦇 Bat Tracking (YOLOv10 + DeepSort)
 - 🔐 Phishing Detection (FastAPI + ML + MongoDB + MLflow)
