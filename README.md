@@ -13,7 +13,7 @@
 - 🧠 Passionate about Explainable AI, CV, NLP, and Financial Modeling
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/faizan-hamid-50b113215)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/faizan-hamid-50b113215)
 
 
 ## 🛠️ Tech Stack
