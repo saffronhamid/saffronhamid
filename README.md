@@ -9,7 +9,6 @@
 - 🎓 M.Sc. Data Science at Philipps-Universität Marburg
 - 💻 Working on Real-Time AI projects (YOLOv8/10, DeepSort, MLflow, etc.)
 - 🌐 Building MERN Stack apps, APIs, and cloud solutions
-- 🔭 Currently improving SmartRent & FinReco AI platforms
 - 🧠 Passionate about Explainable AI, CV, NLP, and Financial Modeling
 
 ## 🌐 Connect With Me
@@ -53,5 +52,5 @@
 
 ## 📌 Pinned Projects
 - 🏠 SmartRent (React + Node + MongoDB)
-- 📊 FinReco AI (FastAPI + yfinance + cvxpy)
+- 📊 NLP Pipeline for Abstractive Summarization
 - 🔐 Phishing Detection (FastAPI + ML + MongoDB + MLflow)
